@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container {
+ width: auto !important; 
+}
+
+.item {
+  height: 400px !important;
+}
+
+.App {
+  background: #3d434c !important;
+}
+
+.carousel-control.right {
+  background: #3d434c !important;
+}
+
+.carousel-control.left {
+  background: #3d434c !important;
+}
+
+.glyphicon-chevron-right:before {
+  color: dimgray
+}
+
+.glyphicon-chevron-left:before {
+  color: dimgray
+}
+
+input {
+  color: black !important;
+}
+
+.fas {
+  color: #8884d8;
+  opacity: 0.8;
+}

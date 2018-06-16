@@ -1,0 +1,24 @@
+{
+  "name": "tablogic-client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "moment": "^2.22.1",
+    "rc-time-picker": "^3.3.1",
+    "react": "^16.3.2",
+    "react-bootstrap": "^0.32.1",
+    "react-center": "^1.1.1",
+    "react-datepicker": "^1.5.0",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+    "react-times": "^3.0.0",
+    "recharts": "^1.0.0-beta.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
